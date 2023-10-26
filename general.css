@@ -1,0 +1,17 @@
+p{
+  font-family: Roboto, Arial; 
+  /*We are setting the font to roboto, 
+  if in any case the font doesnt get loaded from google, 
+  the backup font will be roboto*/
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body{
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(248,248,248);
+  font-family: Roboto, Arial;
+}
